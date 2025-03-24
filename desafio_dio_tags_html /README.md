@@ -1,2 +1,2 @@
 # Repositório criado para treinamento com tags, requisitado como desafio no curso de Formação HTML Web Developer na plataforma DIO.
-## [x] Desafio aceito, realizado com facilidade.
+## [x] Desafio aceito, realizado com facilidade em arquivo [index.html](index.html) ...
